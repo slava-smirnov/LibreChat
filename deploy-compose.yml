@@ -9,8 +9,8 @@ services:
    #ports:
    # - 3080:3080    
 
-    ports:
-      - 80:80
+#    ports:
+#      - 80:80
     depends_on:
       - mongodb
       - rag_api
