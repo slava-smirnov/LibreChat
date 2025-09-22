@@ -1,8 +1,6 @@
 
 ### node etc ###
 
-.git-credentials
-
 
 # Logs
 data-node
@@ -75,6 +73,7 @@ bower_components/
 #librechat.yml
 
 # Environment
+.git-credentials
 .npmrc
 .env*
 my.secrets
